@@ -29,6 +29,14 @@ Contributors
 Release Notes
 -------------
 
+**0.1.3**
+
+* Fix OS detection in params
+
+**0.1.2**
+
+* Add support for Centos 7
+
 **0.1.1**
 
 * Add support for Debian OS family

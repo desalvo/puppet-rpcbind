@@ -7,7 +7,7 @@ class rpcbind::params {
                    $rpcbind_service = "rpcbind"
                }
                default: {
-                   if ($operatingsystemrelease < 6) {
+                   if ($operatingsystemmajrelease < 6) {
                        $rpcbind_package = "portmap"
                        $rpcbind_service = "portmap"
                    } else {
