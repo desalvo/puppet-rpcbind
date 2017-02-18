@@ -1,6 +1,6 @@
 {
   "name": "desalvo-rpcbind",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "author": "desalvo",
   "summary": "Puppet module for rpcbind/portmap setup",
   "license": "Apache License, Version 2.0",

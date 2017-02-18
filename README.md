@@ -29,6 +29,11 @@ Contributors
 Release Notes
 -------------
 
+**1.0.0**
+
+* Puppet 4 support
+* Do not enable service on RHEL 7
+
 **0.1.3**
 
 * Fix OS detection in params
