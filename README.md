@@ -29,6 +29,10 @@ Contributors
 Release Notes
 -------------
 
+**1.0.1**
+
+* Check if packages and service are already defined
+
 **1.0.0**
 
 * Puppet 4 support
